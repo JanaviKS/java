@@ -1,0 +1,50 @@
+
+
+return type:
+
+it is type of reference the method is actually return
+it can return void, primitive , non primitive
+
+   return: keywors which is used to reference of the method
+
+6 parts of a method
+1.access specifier
+2.non access specifier
+3.void
+4. name(parameter)
+5.throws class name
+
+datatype method()
+{
+return refofdatatype
+}
+ 
+object is a functiona
+
+
+Array:
+arry is group of element
+it is data type,hold references
+
+2 ways: literal's
+String[] items={ref,ref1,ref2};
+       new keyword
+
+primitive:it not have method and variables
+non primitive: it have method and variables
+
+
+ array is store to instance pool
+jvm alocate the memory----index
+index pointing to the constant pool,,,where items is pointing to the address of index---it store with sequence of ref stating with 0
+
+
+array is store in instance memory
+size of arry is fixed
+element: is ref stored in array
+index start with zero,increment
+length is variable,total element in array
+index=length-1
+
+
+
